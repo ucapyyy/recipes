@@ -2,6 +2,6 @@
 
 Hello
 
-- izzas
+- pizzas
 - sauces
-- pread
+- spread
