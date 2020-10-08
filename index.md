@@ -1,4 +1,4 @@
-# Y secret recipes
+# secret recipes
 
 Hello
 
